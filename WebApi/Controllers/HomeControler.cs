@@ -21,18 +21,28 @@ namespace WebApi.Controllers
 
         public async Task<ActionResult<dynamic>> auth([FromBody] Usuarios modelo)
         {
-            var user = UsuariosService.Login(modelo.Email, modelo.Senha);
-
-            if (user == null)
-                return NotFound(new { message = "Usuario não encontrado" });
-
-            var token = TokenService.GenerateToken(user);
-          
-            return new
+            try
             {
-                user = user,
-                token = token
-            };
-        }
+                var user = UsuariosService.Login(modelo.Email, modelo.Senha);
+
+                if (user == null)
+                    return NotFound(new { message = "Usuario não encontrado" });
+
+                var token = TokenService.GenerateToken(user);
+
+                return new
+                {
+                    user = user,
+                    token = token
+                };
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex);
+            }
+        }//fimHomeControler
+
+
+
     }
 }

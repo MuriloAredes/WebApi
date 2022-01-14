@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace WebApi.Services
 {
-    public class CategoriesService
+    public class CategoriesService: ICategoriesService
     {
     }
 }
