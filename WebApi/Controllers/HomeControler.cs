@@ -29,6 +29,8 @@ namespace WebApi.Controllers
                     return NotFound(new { message = "Usuario não encontrado" });
 
                 var token = TokenService.GenerateToken(user);
+                user.Email = "";
+                user.Senha = "";
 
                 return new
                 {
@@ -41,7 +43,6 @@ namespace WebApi.Controllers
                 return BadRequest(ex);
             }
         }//fimHomeControler
-
 
 
     }

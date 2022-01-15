@@ -22,7 +22,7 @@ namespace WebApi.Auth
             {
                 Subject = new ClaimsIdentity(new Claim[] {
                 new Claim(ClaimTypes.Email, user.Email),
-                new Claim(ClaimTypes.Name, user.Nome),
+              // new Claim(ClaimTypes.Name, user.Nome),
                
                 }),
                 Expires = DateTime.UtcNow.AddMinutes(15),
