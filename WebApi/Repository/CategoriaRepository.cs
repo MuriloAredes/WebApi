@@ -1,4 +1,5 @@
-﻿using Application.Entities;
+﻿using Application.Context;
+using Application.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,9 +9,9 @@ namespace WebApi.Repository
 {
     public class CategoriaRepository
     {
-        List<Categorias> categorias = new List<Categorias>();
+       public static List<Categorias> categorias = new List<Categorias>();
         Random GeradorId = new Random();
-
+        private readonly ProvaContext _ProvaContext;
         public string Adiciona(string nome)
         {
             foreach (var i in categorias)
@@ -20,7 +21,7 @@ namespace WebApi.Repository
                     return null;
                 }
             }
-             categorias.Add(new Categorias { Id = GeradorId.Next(100), Nome = nome });
+             categorias.Add(new Categorias() { Id = GeradorId.Next(100), Nome = nome });
            
           return "Cadastrado com Sucesso";
 
@@ -29,9 +30,9 @@ namespace WebApi.Repository
 
         public List<Categorias> ListarTodos()
         {
-            
+           
 
-            return categorias;
+            return categorias.ToList() ;
         }
     }
 }
