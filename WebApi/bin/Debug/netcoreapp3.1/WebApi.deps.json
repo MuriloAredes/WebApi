@@ -1137,8 +1137,7 @@
       "Application/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "3.0.0",
-          "Microsoft.EntityFrameworkCore.InMemory": "5.0.1",
-          "Swashbuckle.AspNetCore": "6.2.3"
+          "Microsoft.EntityFrameworkCore.InMemory": "5.0.1"
         },
         "runtime": {
           "Application.dll": {}

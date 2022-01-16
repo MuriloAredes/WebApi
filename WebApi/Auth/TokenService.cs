@@ -33,8 +33,6 @@ namespace WebApi.Auth
             var token = tokenHandler.CreateToken(tokenDecriptor);
 
             return tokenHandler.WriteToken(token);
-
-
         }
     }
 }

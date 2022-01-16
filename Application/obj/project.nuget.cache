@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ykoXXort3lS8fcanUDuHZiW4Oyu/BybLaohDRo9HkYF8iWyrcknAejkHokKzsZbyYBxAf1bSfHBCA7YfyE/tUg==",
+  "dgSpecHash": "wISxXpS/YSDXc0wk1X2b/CJMKwIArgT/nouBTXc/YN7IpYp7nY6MxdZJZ3ll7iVCeNsepvF8njy9xgC3881Qww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nth\\Desktop\\apiUsuarios\\prova-main\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\nth\\Desktop\\prova teste1\\WebApi\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nth\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.0.0\\microsoft.aspnetcore.authentication.jwtbearer.3.0.0.nupkg.sha512",
     "C:\\Users\\nth\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

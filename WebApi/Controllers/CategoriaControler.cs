@@ -45,7 +45,7 @@ namespace WebApi.Controllers
         public async Task<ActionResult<dynamic>> listarTodos()
         {
             var listar = CategoriesService.GetAll();
-            foreach(x  in listar)
+            
 
                return Ok(listar);
         }

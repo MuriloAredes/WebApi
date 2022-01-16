@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ONufpCnb6MoKjB8OrqNv2N+YuIJPqXnhRfrE6GbwiH0hw+xqtqea5g99vKTA++lDxB6yCNdnPmCNM3hZzolP5A==",
+  "dgSpecHash": "OI3O5xRYDou9XKxDEs+klUN3Y9a17xHVGenliUDc4iVBwJPtU0avn9FHsB8IyjughjvgCmL9aoZj26xh9ezTIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nth\\Desktop\\Prova\\WebApi\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\nth\\Desktop\\prova teste1\\WebApi\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nth\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
     "C:\\Users\\nth\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",

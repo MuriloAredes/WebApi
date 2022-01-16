@@ -29,6 +29,7 @@ namespace WebApi.Repository
 
         public List<Categorias> ListarTodos()
         {
+            
 
             return categorias;
         }
