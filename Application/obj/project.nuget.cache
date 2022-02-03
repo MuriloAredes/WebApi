@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wISxXpS/YSDXc0wk1X2b/CJMKwIArgT/nouBTXc/YN7IpYp7nY6MxdZJZ3ll7iVCeNsepvF8njy9xgC3881Qww==",
+  "dgSpecHash": "oj+hWswtzKzasbZCvF2k1cLo7VKH9dYqXNihEFbsyWn5clu92yXNbKdJh3Q/gpX9/rtqhggifccZDbZzHLc98g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nth\\Desktop\\prova teste1\\WebApi\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\nth\\Desktop\\Projects\\WebApi_Prova Doubleit\\WebApi\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nth\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.0.0\\microsoft.aspnetcore.authentication.jwtbearer.3.0.0.nupkg.sha512",
     "C:\\Users\\nth\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
@@ -71,7 +71,10 @@
     "C:\\Users\\nth\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\nth\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\nth\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\nth\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\nth\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\nth\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\nth\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nth\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

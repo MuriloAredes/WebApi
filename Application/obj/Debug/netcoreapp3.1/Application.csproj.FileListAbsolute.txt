@@ -36,3 +36,13 @@ C:\Users\nth\Desktop\prova teste1\WebApi\Application\obj\Debug\netcoreapp3.1\App
 C:\Users\nth\Desktop\prova teste1\WebApi\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
 C:\Users\nth\Desktop\prova teste1\WebApi\Application\obj\Debug\netcoreapp3.1\Application.dll
 C:\Users\nth\Desktop\prova teste1\WebApi\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\nth\Desktop\Projects\WebApi_Prova Doubleit\WebApi\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\nth\Desktop\Projects\WebApi_Prova Doubleit\WebApi\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\nth\Desktop\Projects\WebApi_Prova Doubleit\WebApi\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\nth\Desktop\Projects\WebApi_Prova Doubleit\WebApi\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\nth\Desktop\Projects\WebApi_Prova Doubleit\WebApi\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nth\Desktop\Projects\WebApi_Prova Doubleit\WebApi\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\nth\Desktop\Projects\WebApi_Prova Doubleit\WebApi\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\nth\Desktop\Projects\WebApi_Prova Doubleit\WebApi\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\nth\Desktop\Projects\WebApi_Prova Doubleit\WebApi\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\nth\Desktop\Projects\WebApi_Prova Doubleit\WebApi\Application\obj\Debug\netcoreapp3.1\Application.pdb

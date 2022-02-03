@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oB8ixwnB+iS2iRuvY9PQK+yu4A4aXE8815jz7rxugDCnw30EhYzZjO/cyI3fYt6sPtr2ixfvLpWhhJLsSqdONw==",
+  "dgSpecHash": "vvWSsXWvswV6oKVUI2SKy+yPSPpfmBrsInkxh6B6gc/xkDKY/J/KFSKdtBR6gFUN5W5NCVIlBXY0ShcitUmeOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nth\\Desktop\\prova teste1\\WebApi\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\nth\\Desktop\\Projects\\WebApi_Prova Doubleit\\WebApi\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nth\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\nth\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.0.0\\microsoft.aspnetcore.authentication.jwtbearer.3.0.0.nupkg.sha512",
@@ -118,7 +118,10 @@
     "C:\\Users\\nth\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\nth\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\nth\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\nth\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\nth\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\nth\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\nth\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nth\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
