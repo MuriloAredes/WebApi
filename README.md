@@ -16,7 +16,7 @@ O acesso a dados esta configurado para usar um banco de dados em memória, mas f
    * Este endpoint deverá ter as seguintes implementações: 
       * criar um serviço chamado UsuariosService e uma interface chamada IUsuariosService
       * criar um método chamado DoLogin recendo como parametros o email e senha e implementar as regras abaixo: 
-        * (usuario: prova@doubleit.com.br, senha: Prova@DoubleIt21, nome: Candidato)
+        * (usuario: x, senha: Px, nome: Candidato)
       * validar se as credenciais do usuário estão corretas através de uma consulta ao banco de dados passando email e senha
       * caso não existe uma mensagem de Usuario não encontrado" deverá ser informada
       * caso exista deverá criar um token e adicionar uma claim chamada "user" passando o objeto usuario vindo do banco de dados
